@@ -63,3 +63,15 @@ My final self assessment will reflect on my growth throughout the Computer Scien
 ## Portfolio Progress
 
 This portfolio currently presents my initial enhancement plan. I will add completed work, testing evidence, reflections, and instructor feedback as I progress through CS 499.
+
+<h2>Code Review</h2>
+
+<p>
+In this video, I review my CS 360 inventory app,
+CS 300 course planner, and CS 340 animal shelter dashboard.
+I explain their existing functionality and my planned enhancements.
+</p>
+
+<p>
+  <a href=https://youtu.be/vle_g1XGt4Y>Watch my code review</a>
+</p>
